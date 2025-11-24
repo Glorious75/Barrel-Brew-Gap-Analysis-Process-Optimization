@@ -19,13 +19,9 @@ A Process Mapping, Gap Identification &amp; Workflow Improvement Project
 
 ### 8. Future-State Swimlane Mapping
 
-### 9. Recommendations
+### 9. Conclusion
 
-### 10. Business Impact
-
-### **Repository Structure**
-
-###  **Downloads**
+### 10. Recommendation
 
 # 🔍 Project Overview
 
@@ -111,4 +107,44 @@ Recipe Planning → Ingredient Prep → Brewing → Fermentation → Quality Con
 
 ![Barrel brewy_Future Process flow](https://github.com/user-attachments/assets/837d8c7e-fdd1-4ee8-a83c-1bf436ed8b4b)
 
+### Key improvements include:
 
+- Digital recipe & batch records
+
+- Sales-driven forecasting integrated into planning
+
+- Preventive maintenance cycle
+
+- Inventory synchronization with production
+
+- Clear stage-based QC checkpoints
+
+This ensures scalable production without compromising quality.
+
+# Conclusion
+
+The investigation into Barrel & Brew’s operations revealed that the company’s growing demand is outpacing its current workflows, tools, and organizational structure. While the product quality and brand reputation are strong, production inefficiencies, manual recordkeeping, siloed communication, and aging equipment are creating delays, inconsistencies, and employee burnout. These issues are systemic rather than isolated — rooted in the way the business operates rather than in single departments.
+
+By mapping the end-to-end process and analyzing key pain points, it becomes clear that sustainable growth requires a shift toward digital tracking, cross-department alignment, and proactive planning. Rather than reacting to demand, Barrel & Brew must transition to a model where data drives decision-making, quality is standardized, and production capacity scales predictably.
+
+# 💡 Recommendations 
+
+- Digitize Production & Batch Records
+Replace handwritten logs with digital recipe sheets, fermentation trackers, and batch reports.
+This creates traceability, reduces errors, and improves quality consistency.
+
+- Implement Stage-Based Quality Control
+Introduce QC checkpoints at key production stages (brewing, fermentation, bottling).
+Early detection prevents rework, delays, and product inconsistencies.
+
+-  Adopt Data-Driven Demand Forecasting
+Use historical distributor sales and seasonal trends to plan production volumes.
+Aligning output with demand reduces waste, stockouts, and inventory risk.
+
+-  Upgrade & Maintain Critical Equipment
+Create a preventive maintenance plan and phase in upgrades for aging machinery.
+Stable equipment reduces bottlenecks, improves throughput, and protects staff workload.
+
+- Improve Cross-Team Communication
+Establish weekly Sales–Production alignment meetings and shared visibility tools.
+This ensures operational clarity, reduces last-minute disruptions, and supports planning.
