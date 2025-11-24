@@ -68,7 +68,9 @@ These challenges directly impact scalability and long-term business sustainabili
 
 - Recommend actionable improvements aligned with growth goals
 
-# 📉 Gap Analysis — Barrel & Brew Operations
+# 📊 Analysis Performed
+
+## 📉 Gap Analysis — Barrel & Brew Operations
 
 | **Focus Area** | **Current State** | **Gap Identified** | **Future State** |
 |---|---|---|---|
