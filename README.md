@@ -70,7 +70,7 @@ These challenges directly impact scalability and long-term business sustainabili
 
 # 📊 Analysis Performed
 
-## 📉 Gap Analysis — Barrel & Brew Operations
+## Gap Analysis — Barrel & Brew Operations
 
 | **Focus Area** | **Current State** | **Gap Identified** | **Future State** |
 |---|---|---|---|
@@ -83,3 +83,9 @@ These challenges directly impact scalability and long-term business sustainabili
 | **Communication & Alignment** | Sales and production operate in silos | Rush orders, misalignment, operational confusion | Weekly Sales–Production sync with shared visibility tools |
 | **Data & Documentation** | Notes in notebooks and scattered spreadsheets | No audit trail, knowledge loss, high onboarding time | Centralized digital record of recipes, batches, QC checkpoints |
 | **Scalability & Growth** | Processes designed for small-batch operations | Systems fail under increasing demand | Scalable production workflows supported by automation and KPIs |
+
+## Issue Categorization (Fishbone Diagram)
+![isikawa Diagram](https://github.com/user-attachments/assets/d7fffbf9-c3f3-4819-8f3a-e2bfab4e787e)
+
+## Current-State Process Mapping
+
