@@ -121,7 +121,7 @@ Recipe Planning → Ingredient Prep → Brewing → Fermentation → Quality Con
 
 This ensures scalable production without compromising quality.
 
-# Conclusion
+# ✨ Conclusion
 
 The investigation into Barrel & Brew’s operations revealed that the company’s growing demand is outpacing its current workflows, tools, and organizational structure. While the product quality and brand reputation are strong, production inefficiencies, manual recordkeeping, siloed communication, and aging equipment are creating delays, inconsistencies, and employee burnout. These issues are systemic rather than isolated — rooted in the way the business operates rather than in single departments.
 
